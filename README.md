@@ -13,9 +13,15 @@ This repository contains a comprehensive set of templates and documents designed
   - `system-design-document.md`: Template for system architecture and component design
   - `planner.md`: Development planning template that breaks down work into logical phases
   - `init-codebase-structure.md`: Guidelines for creating optimal, AI-friendly codebase structures
+  - `generate-code-base-knowledge.md`: Guide for analyzing and documenting existing codebases
 
 - **cursor/**: Templates for AI agent integration and rules
   - `rules-generation.md`: Templates for generating AI coding agent rules in MDC format
+  - **flow/**: Workflow guidance documents for AI development process
+    - `READ_PLAN.md`: Guidelines for the reading and planning phases
+    - `WRITE.md`: Guidelines for code implementation phase
+    - `TEST.md`: Guidelines for testing phase
+    - `DOCUMENT.md`: Guidelines for documentation phase
 
 ## Purpose
 
@@ -33,6 +39,8 @@ This repository serves multiple purposes:
 3. **Development Planning**: Leverage the `planner.md` template to break the implementation into logical phases with integrated testing
 4. **Codebase Structure**: Follow the `init-codebase-structure.md` guidelines to establish an optimal code organization
 5. **AI Integration**: Utilize the `rules-generation.md` template to create AI agent rules for consistent coding practices
+6. **Existing Codebase Analysis**: Use the `generate-code-base-knowledge.md` guide to create comprehensive documentation for existing projects
+7. **Development Workflow**: Follow the structured process in cursor/flow with READ_PLAN → WRITE → TEST → DOCUMENT phases
 
 ## Benefits
 
@@ -41,6 +49,7 @@ This repository serves multiple purposes:
 - Optimization for AI-assisted development
 - Improved communication between stakeholders
 - Consistent documentation standards
+- Streamlined workflow with AI-friendly process templates
 
 ## Contributing
 
