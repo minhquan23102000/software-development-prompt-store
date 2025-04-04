@@ -1,0 +1,1 @@
+Proceed with the WRITE phase, following the workflow guideline and the plan created in the previous phase.
