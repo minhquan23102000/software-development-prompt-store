@@ -18,7 +18,6 @@ To generate a well-organized and logical codebase directory and file structure b
 ## Constraints
 
 *   The generated structure must directly correspond to the components and relationships described *only* in the system design document. Do not add elements not specified.
-*   **Prioritize Vertical Slice or Atomic Composable architectures.** Provide strong justification if deviating, addressing AI-friendliness concerns.
 *   The output must only be the directory/file structure and the rationale. **Do not generate any actual code content** within the files beyond standard boilerplate (e.g., empty classes/functions, basic exports if essential for structure representation).
 *   Use standard naming conventions. Adhere to language/framework conventions if specified or clearly implied.
 *   The structure should aim to minimize cognitive load and optimize context localization, especially for AI agents working on specific features or components.
